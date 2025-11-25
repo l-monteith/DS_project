@@ -1,0 +1,46 @@
+,Resort,Ski Pass,Location (State),Days Open This Season,Avg Total Snowfall (inches),Beginner Runs,Intermediate Runs,Advanced Runs,Expert Runs,Lift Amount,Total Runs,skiable_acres,base_elevation_ft,top_elevation_ft,vertical_ft,historical_average_snowfall_inches,historical_average_snowfall_days,Limited or unlimited,Longest Run,Snow Making,Night Skiing,ScarinessIndex
+0,Keystone,Epic,Colorado,170,210,26,43,66,0,20,135,3149.0,9280,12408,3128,329.0,81.0,unlimited,3.5,662,288 ac,7182.81
+1,Breckenridge,Epic,Colorado,199,355,25,43,67,52,35,187,2908.0,9600,12998,3398,305.0,78.0,unlimited,3.5,600,,9448.98
+2,Vail,Epic,Colorado,160,354,63,96,110,5,31,275,5317.0,8120,11570,3450,254.0,68.0,unlimited,4.0,461,,7590.0
+3,Park City,Epic,Utah,139,260,26,140,95,78,41,341,7300.0,6900,10026,3126,287.0,57.0,unlimited,3.5,500,,8277.94
+4,Beaver Creek,Epic,Colorado,144,325,57,45,36,12,25,150,2082.0,8100,11440,3340,238.0,63.0,unlimited,2.8,650,,6746.8
+5,Crested Butte,Epic,Colorado,145,236,17,30,30,44,16,121,1547.0,9375,12162,2787,211.0,53.0,unlimited,2.6,297,,7900.34
+6,Heavenly Mountain,Epic,California,145,360,8,68,30,6,28,113,4800.0,6255,10067,3812,280.0,41.0,unlimited,5.5,3379,,8703.5
+7,Northstar California,Epic,California,130,341,13,60,27,0,20,100,3170.0,6330,8610,2280,348.0,46.0,unlimited,1.4,1500,,4879.2
+8,Kirkwood Mountain,Epic,California,175,362,10,26,33,17,15,86,2300.0,7800,9800,2000,370.0,46.0,unlimited,2.5,200,,5325.58
+9,Stevens Pass,Epic,Washington,130,460,3,25,15,9,10,52,1125.0,4061,5845,1784,338.0,61.0,unlimited,1.0,0,450 ac,4597.23
+10,Stowe Mountain,Epic,Vermont,150,315,19,64,17,17,12,116,485.0,1559,3719,2160,224.0,61.0,unlimited,3.7,388,,4953.1
+11,Okemo Mountain,Epic,Vermont,140,200,40,46,26,11,20,122,667.0,1144,3344,2200,120.0,32.0,unlimited,3.4,654,,4580.33
+12,Mount Snow,Epic,Vermont,135,133,13,57,14,1,20,86,600.0,1900,3600,1700,135.0,39.0,unlimited,1.2,240,150 ac,3419.77
+13,Mount Sunapee,Epic,New Hampshire,130,100,20,31,7,9,8,67,230.0,1230,2743,1513,97.0,25.0,limited,0.8,215,,3138.91
+14,Afton Alps,Epic,Minnesota,130,60,13,14,10,0,21,37,300.0,350,700,350,42.0,15.0,unlimited,0.5,250,250 ac,671.62
+15,Wilmot Mountain,Epic,Wisconsin,130,71,7,7,7,0,11,21,120.0,770,960,190,24.0,10.0,unlimited,0.5,135,135 ac,380.0
+16,Mt. Brighton,Epic,Michigan,105,60,5,12,7,2,13,26,130.0,1100,1330,230,418.0,67.0,limited,0.1,130,130 ac,513.08
+17,Telluride,Epic,Colorado,132,276,23,44,31,50,18,147,2000.0,8725,13150,4425,219.0,48.0,limited,4.6,220,,12161.22
+18,Alta,Ikon,Utah,150,547,18,35,66,0,6,119,2614.0,8530,11068,2538,399.0,66.0,limited,1.3,140,,6099.73
+19,Arapahoe Basin,Ikon,Colorado,230,350,10,29,72,35,9,147,1428.0,10520,13050,2530,276.0,87.0,limited,1.5,125,,7297.41
+20,Aspen Snowmass,Ikon,Colorado,150,300,2,48,26,26,8,76,673.0,8040,12510,4470,309.0,66.0,limited,5.3,658,,16468.42
+21,Big Sky,Ikon,Montana,140,400,47,79,133,57,36,317,5850.0,7500,11166,3666,267.0,69.0,limited,6.0,400,,9621.8
+22,Boyne Mountain,Ikon,Missouri,125,141,31,17,13,2,12,63,450.0,620,1120,500,113.0,44.0,limited,1.0,380,200 ac,888.89
+23,Brighton,Ikon,Utah,140,500,14,26,25,0,8,65,1050.0,8755,10500,1745,418.0,67.0,limited,1.2,200,200 ac,3785.31
+24,Copper Mountain,Ikon,Colorado,155,300,38,36,51,25,24,150,2465.0,9712,12313,2601,248.0,74.0,unlimited,1.7,364,,6294.42
+25,Crystal Mountain,Ikon,Washington,150,486,7,26,27,25,11,85,2600.0,3912,7012,3100,406.0,76.0,limited,2.5,10,,8752.94
+26,Deer Valley,Ikon,Utah,130,300,28,32,10,33,21,102,2026.0,6570,9570,3000,264.0,55.0,limited,2.8,660,,7470.59
+27,Eldora Mountain,Ikon,Colorado,160,312,11,29,11,9,10,61,680.0,9360,10600,1240,202.0,57.0,unlimited,3.0,680,,2805.25
+28,Jackson Hole Mountain,Ikon,Wyoming,136,460,5,54,50,22,16,131,2500.0,6311,10450,4139,428.0,76.0,limited,4.5,195,,11089.99
+29,June Mountain,Ikon,California,100,250,7,17,12,7,7,43,1500.0,7545,10090,2545,236.0,73.0,unlimited,2.0,0,,6214.53
+30,Killington/Pico,Ikon,Vermont,200,250,28,66,61,0,22,155,1509.0,1165,4229,3064,178.0,53.0,limited,6.0,600,,6780.34
+31,Mammoth Mountain,Ikon,California,250,400,26,83,42,22,25,173,3500.0,7953,11059,3106,344.0,47.0,unlimited,3.0,700,,7289.23
+32,Mt. Bachelor,Ikon,Oregon,180,462,23,65,26,4,12,119,4323.0,5700,9065,3365,400.0,75.0,limited,4.0,1600,,6984.5
+33,Palisades Tahoe,Ikon,California,205,450,68,122,81,0,36,270,3600.0,6200,9050,2850,337.0,40.0,unlimited,3.2,1000,,5858.33
+34,Snowbasin,Ikon,Utah,140,300,11,39,61,7,12,118,3000.0,6391,9350,2959,276.0,87.0,limited,3.5,15936,,7522.88
+35,Snowbird,Ikon,Utah,190,500,11,35,60,33,14,140,2500.0,7760,11000,3240,446.0,71.0,limited,2.5,0,,9095.14
+36,Solitude Mountain,Ikon,Utah,150,500,4,25,38,15,8,82,1200.0,7900,10488,2588,386.0,64.0,unlimited,3.0,150,,7195.9
+37,Steamboat,Ikon,Colorado,145,336,20,74,68,9,21,171,3668.0,6900,10568,3668,293.0,70.0,unlimited,3.0,375,30 ac,8751.72
+38,Stratton Mountain,Ikon,Vermont,140,180,40,34,25,0,11,99,625.0,1872,3875,2003,124.0,31.0,unlimited,3.0,474,,3702.52
+39,Sugarbush,Ikon,Vermont,155,250,25,47,30,8,16,111,484.0,1483,4083,2600,213.0,60.0,unlimited,3.0,406,,5645.05
+40,Sun Valley,Ikon,Idaho,140,221,31,47,42,0,17,120,2054.0,5750,9150,3400,175.0,47.0,limited,3.0,645,,7111.67
+41,Taos Ski Valley,Ikon,New Mexico,135,300,15,17,33,44,13,110,1200.0,9200,12481,3281,184.0,38.0,limited,5.0,8320,,9664.04
+42,The Summit at Snoqualmie,Ikon,Washington,125,428,10,26,29,0,20,65,1914.0,2610,5420,2810,244.0,47.0,limited,0.8,5,541 ac,6441.38
+43,Windham Mountain,Ikon,New York,120,106,11,26,10,7,11,54,285.0,1500,3100,1600,82.0,23.0,limited,2.0,280,45 ac,3585.19
+44,Winter Park,Ikon,Colorado,162,360,40,35,79,12,25,165,3081.0,9000,12060,3060,329.0,81.0,unlimited,4.9,313,,7325.45
