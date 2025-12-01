@@ -1,0 +1,72 @@
+Resort,Country,Price,Season,Highest point,Lowest point,Beginner slopes,Intermediate slopes,Difficult slopes,Total slopes,Snow cannons,Total lifts,Lift capacity,Snowparks,Nightskiing,latitude,longitude,Snow
+Steamboat,United States,120,November - April,3221,2103,25,95,45,165,0,17,32720,Yes,Yes,35.875,-109.875,13.23
+Howelsen Hill-Steamboat Springs,United States,21,November - April,2175,2040,1,1,0,2,0,4,2220,No,No,40.375,-106.875,79.65833333333333
+Crested Butte,United States,98,November - April,3707,2774,27,69,25,121,0,15,19717,Yes,No,38.875,-106.875,77.215
+Park City,United States,97,November - April,3049,2080,27,152,71,250,480,41,76110,Yes,Yes,40.625,-111.375,74.1842857142857
+Arapahoe Basin,United States,83,October - June,3790,3286,40,25,40,105,0,7,7200,Yes,No,40.125,-80.625,20.866666666666667
+Winter Park Resort,United States,119,November - April,3676,2743,11,53,79,143,36,25,41130,Yes,No,39.875,-105.875,71.0411111111111
+Alta,United States,82,November - April,3215,2600,29,46,40,115,0,10,13100,No,Yes,42.625,-95.375,49.80500000000001
+Aspen Mountain,United States,124,November - April,3418,2422,0,49,54,103,0,8,13400,No,No,39.125,-106.875,66.97333333333333
+Aspen Highlands,United States,124,December - April,3559,2451,24,40,70,134,0,5,7085,No,No,61.125,-149.625,88.80857142857143
+Vail,United States,127,November - April,3433,2457,57,84,93,234,0,31,54858,Yes,No,39.625,-106.375,72.125
+Snowbasin,United States,85,November - April,2850,1950,5,28,15,48,400,11,17026,Yes,No,41.125,-111.875,68.2075
+Beaver Creek,United States,141,November - April,3488,2255,28,64,57,149,0,24,38200,Yes,No,39.625,-106.625,80.76428571428572
+Big Sky Resort,United States,110,November - April,3398,2072,55,69,126,250,0,34,36283,Yes,No,45.375,-111.375,67.0275
+Snowmass,United States,124,November - April,3813,2473,14,111,111,236,0,21,27765,Yes,Yes,39.375,-106.875,56.052499999999995
+Powder Mountain,United States,67,November - April,2712,2101,30,50,55,135,0,9,13470,Yes,Yes,48.875,-120.875,72.88374999999999
+Keystone,United States,120,November - April,3651,2835,25,65,45,135,0,22,30500,Yes,Yes,41.875,-92.125,66.535
+Killington,United States,90,November - May,1285,355,37,43,46,126,1500,23,41660,Yes,No,43.625,-72.875,60.040000000000006
+Copper Mountain,United States,89,November - April,3767,2926,30,40,56,126,0,23,29084,Yes,No,37.375,-90.375,7.083333333333333
+Taos,United States,84,November - April,3795,2805,27,28,58,113,0,15,17000,Yes,No,36.375,-105.625,25.512000000000004
+Snowbird,United States,99,November - May,3353,2365,27,38,38,103,0,13,17900,Yes,Yes,40.625,-111.625,69.59777777777778
+Solitude,United States,71,November - April,3000,2434,20,30,14,64,0,8,16400,No,No,40.625,-111.625,69.59777777777778
+Mt. Rose,United States,93,November - April,2957,2407,20,30,50,100,0,8,15000,Yes,No,40.375,-74.625,5.905
+Mt. Baker,United States,50,November - May,1525,1070,24,45,31,100,0,10,15500,Yes,No,48.875,-121.875,56.221000000000004
+Deer Valley,United States,109,December - April,2917,2003,27,41,32,100,0,24,46600,No,No,48.125,-117.375,98.81800000000001
+Wolf Creek,United States,56,November - April,3628,3139,20,35,45,100,0,9,11200,No,No,42.625,-123.375,36.22
+Wenatchee-Mission Ridge,United States,54,November - April,2078,1392,10,60,30,100,0,6,4910,No,Yes,47.375,-120.375,72.70333333333333
+Mt. Bachelor,United States,79,November - May,2763,1737,15,25,60,100,0,13,25900,Yes,No,43.875,-121.625,56.653
+Northstar California Resort,United States,120,November - April,2624,1929,25,45,27,97,0,20,28002,Yes,No,39.375,-120.125,73.56428571428572
+Schweitzer Mountain Resort,United States,66,November - April,1950,1206,20,40,35,95,0,9,14200,Yes,Yes,48.375,-116.625,81.39750000000001
+Loveland,United States,61,October - May,3871,3245,12,38,43,93,0,11,13000,Yes,No,40.375,-105.125,45.589999999999996
+Stratton,United States,90,November - April,1181,600,60,20,12,92,0,13,26900,Yes,Yes,43.125,-72.875,54.625
+Bald Mountain-Sun Valley,United States,107,December - April,2788,1752,35,40,17,92,0,14,24500,No,No,43.625,-114.375,54.943333333333335
+Whitefish Mountain Resort,United States,65,December - April,2078,1361,18,46,27,91,0,15,22600,Yes,Yes,48.375,-114.375,75.065
+Mt. Hood Meadows,United States,76,November - April,2225,1378,13,45,31,89,0,11,20603,Yes,Yes,45.375,-121.625,83.03833333333334
+Summit Ski Area at Mt. Hood,United States,26,December - April,1312,1216,2,2,0,4,2,1,1200,No,No,45.375,-121.625,83.03833333333334
+Sugar Bowl,United States,98,November - April,2555,2098,15,40,34,89,0,15,25544,Yes,No,42.875,-115.125,54.330000000000005
+Mammoth Mountain,United States,114,November - June,3369,2424,18,48,22,88,120,34,54830,Yes,No,37.625,-119.125,72.26181818181819
+Telluride,United States,110,November - April,3815,2659,6,51,29,86,0,20,22638,Yes,No,37.875,-107.875,78.00857142857141
+Sugarbush,United States,83,November - April,1240,452,17,40,30,87,351,16,25652,Yes,No,44.625,-73.875,47.504999999999995
+Purgatory-Durango,United States,76,November - April,3299,2680,15,40,30,85,0,11,16700,Yes,No,37.625,-107.875,79.5275
+Sunday River,United States,85,October - April,957,250,30,40,14,84,0,15,29950,Yes,Yes,44.375,-70.875,58.5625
+Yellowstone Club,United States,0,November - April,3005,2182,30,30,20,80,0,15,14886,No,No,45.625,-111.125,76.692
+Bridger Bowl-Bozeman,United States,49,December - April,2682,1860,20,26,25,71,0,9,11900,Yes,No,45.625,-111.125,76.692
+Smugglers' Notch,United States,65,November - April,1112,314,13,41,24,78,0,9,7053,Yes,No,41.125,-85.375,81.5
+Jay Peak,United States,70,Unknown,1175,563,15,31,30,76,0,9,11675,No,No,47.625,-120.875,74.567
+Angel Fire,United States,62,December - March,3256,2591,40,28,7,75,0,7,7200,Yes,Yes,36.375,-105.375,55.512857142857136
+Brian Head,United States,59,November - April,3328,2926,22,24,25,71,0,11,13200,No,Yes,37.625,-112.875,70.66875
+Stowe,United States,106,November - April,1116,390,20,42,8,70,400,13,20300,Yes,Yes,44.375,-72.625,47.164
+Okemo,United States,86,November - April,1019,348,22,26,22,70,0,20,29050,Yes,Yes,43.375,-72.625,83.33333333333333
+49 Degrees North Mountain Resort,United States,50,November - April,1760,1195,20,27,21,68,0,7,8250,No,No,48.375,-117.625,95.57
+Brighton,United States,67,November - April,3200,2668,10,18,38,66,0,7,13200,Yes,Yes,39.875,-104.875,34.545
+Mt. Hood Skibowl,United States,45,November - April,1510,1120,15,15,35,65,0,9,6500,Yes,Yes,45.375,-121.875,40.26857142857143
+Kirkwood,United States,85,November - April,2987,2377,15,30,20,65,0,15,21420,Yes,No,38.625,-90.375,28.15
+Red Lodge Mountain,United States,45,November - April,2870,2138,11,30,24,65,0,7,10200,No,No,45.125,-109.375,79.77125
+Alyeska Resort-Girdwood,United States,68,November - April,840,70,14,31,17,62,0,9,11200,No,Yes,60.875,-149.125,95.47125
+Mount Snow,United States,81,November - April,1095,585,6,46,8,60,254,20,27000,Yes,No,42.875,-72.875,34.722
+Gore Mountain,United States,71,November - April,1097,304,6,28,23,57,0,15,21000,Yes,No,40.125,-106.625,84.00625
+Bretton Woods,United States,76,November - April,945,487,25,16,15,56,0,10,15406,Yes,Yes,44.375,-71.375,41.967999999999996
+Apache,United States,48,Unknown,3475,2926,12,18,25,55,0,11,15800,No,No,35.125,-109.375,7.9725
+Hunter Mountain,United States,68,Unknown,975,487,18,18,19,55,0,13,15910,No,No,42.125,-74.125,42.124
+Eldora Mountain,United States,80,November - April,3292,2804,11,26,15,52,0,11,13020,Yes,Yes,37.375,-122.125,5.51
+Donner Ski Ranch,United States,59,December - April,2371,2142,13,26,13,52,0,6,6500,No,No,39.375,-120.375,78.78444444444443
+Whiteface-Lake Placid,United States,79,November - April,1340,371,7,15,13,35,250,11,14200,Yes,No,44.375,-73.875,73.52250000000001
+The Summit at Snoqualmie,United States,67,December - April,1180,800,5,13,9,27,0,23,30400,Yes,Yes,47.375,-121.375,74.01625
+Tamarack Resort,United States,59,December - April,2347,1490,12,20,10,42,14,7,8700,Yes,No,44.625,-116.125,75.64
+Bolton Valley,United States,63,December - April,960,440,15,10,5,30,100,6,7200,Yes,Yes,39.375,-78.875,50.195
+Montage Mountain Resort,United States,53,December - March,594,285,2,4,3,9,270,7,8800,Yes,Yes,41.375,-75.625,24.80333333333333
+Sandia Peak,United States,47,Unknown,2630,1999,8,20,3,31,0,6,4000,No,No,35.125,-106.375,23.23
+Crystal Mountain-WA-,United States,63,November - May,2137,1341,8,27,15,50,0,12,20500,Yes,No,46.875,-121.625,76.57416666666667
+Stevens Pass,United States,63,December - April,1750,1170,4,18,15,37,0,10,17110,Yes,Yes,47.625,-121.125,70.62899999999999
+Loon Mountain,United States,73,November - April,930,300,15,28,7,50,0,12,17034,Yes,No,44.625,-74.625,60.474000000000004
