@@ -1,2 +1,4 @@
 # DS_project
-uuhhhh csys final project stuff
+
+Analysis of Ski Resort Prices in the U.S. and Europe
+Fall 2025 Final Project
