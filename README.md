@@ -11,4 +11,4 @@ Data Organizaiton:
             - contains code for and resulting images of resort location maps and price analysis
        - US_Price_fromEUdataFinal.ipynb: an *accessory* file for rerunning US resort analyses using the World Resort data rather than the Epic/Ikon data
   - **ipynb_outputs**:
-      - a couple files either used in analysis or resulting from analysis steps
+      - a couple files either used in analysis or resulting from analysis steps (do not fit into the category of "raw data" or "cleaned data"
